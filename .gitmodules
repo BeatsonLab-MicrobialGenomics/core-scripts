@@ -1,3 +1,18 @@
 [submodule "Dryad-SA"]
 	path = Dryad-SA
 	url = https://github.com/happykhan/Dryad-SA.git
+[submodule "wgsfetch"]
+	path = wgsfetch
+	url = https://github.com/happykhan/wgsfetch.git
+[submodule "seqhandler"]
+	path = seqhandler
+	url = https://github.com/happykhan/seqhandler.git
+[submodule "binCrisp"]
+	path = binCrisp
+	url = https://github.com/happykhan/binCrisp.git
+[submodule "mapContigs.py"]
+	path = mapContigs.py
+	url = https://github.com/mjsull/mapContigs.py.git
+[submodule "merge-genbank"]
+	path = merge-genbank
+	url = https://github.com/bawee/merge-genbank.git
